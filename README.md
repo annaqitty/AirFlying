@@ -95,16 +95,15 @@ cd AirFlying
 
 <p>
     <!-- Buy Me a Coffee Button -->
-    <a href="https://www.buymeacoffee.com/Annaqitty" target="_blank" style="text-decoration: none;">
+    <a href="https://paypal.me/chuakerz?country.x=ID&locale.x=id_ID" target="_blank" style="text-decoration: none;">
         <img align="center" src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee" height="40" width="217" />
+        <img align="center" src="https://www.paypalobjects.com/webstatic/en_US/i/buttons/pp-acceptance-medium.png" alt="Support via PayPal" height="40" />
     </a>
 </p>
 
 <p>
     <!-- PayPal Button -->
-    <a href="https://paypal.me/chuakerz?country.x=ID&locale.x=id_ID" target="_blank" style="text-decoration: none;">
-        <img align="center" src="https://www.paypalobjects.com/webstatic/en_US/i/buttons/pp-acceptance-medium.png" alt="Support via PayPal" height="40" />
-    </a>
+    <a href="https://wa.me/62895405001522" target="_blank" style="text-decoration: none;">Cheersss...!!!!</a>
 </p>
 
 <hr>
